@@ -15,7 +15,7 @@
 **zhan.gu@nus.edu.sg**
 
 
-## Interactive R Workshops
+## Interactive R Workshops/Courses
 This is a collection of interactive courses for use with the [swirl R package](http://swirlstats.com). You'll find instructions for installing courses further down on this page. Some courses are still in development and we'd love to hear any [suggestions](https://github.com/swirldev/swirl_courses/issues/new) you have as you work through them.
 
 For more information regarding swirl, visit [swirlstats.com](http://swirlstats.com) or the [swirl GitHub repository](https://github.com/swirldev/swirl). If you'd like to write your own interactive content, please visit the [Instructors page](http://swirlstats.com/instructors.html) of our website.
@@ -46,16 +46,40 @@ relevance to big data, issues of multiple testing and resampling.
 
 Since our users come from a variety backgrounds, it's very hard to label material as **Beginner**, **Intermediate**, or **Advanced**. If you find something that is labelled **Beginner** to be challenging, please don't be discouraged. The first step of learning anything is to acknowledge that you are capable of understanding it. True understanding will come with time and practice.
 
-#### Course Authors
+## Install and run a course manually
 
-- **Writing swirl Courses**: An interactive guides and example 
-  for swirl course authors. The first group of lessons cover basics. The rest cover 
-  special topics useful primarily as samples--points of departure for one's own material.
-  For more comprehensive documentation about writing your own swirl courses see http://swirlstats.com/swirlify/.
+If the automatic course installation method outlined above does not work for you, then there's a simple alternative.
 
-## Install and run a course automatically from swirl
+1) Click [**here**](https://github.com/telescopeuser/S-SB-Workshop/archive/master.zip "S-SB-Workshop-master.zip") to download the file `S-SB-Workshop-master.zip`.
 
-**This is the preferred method of installing courses.** It automates the process by allowing you to do everything right from the R console.
+2) Install all all available courses:
+
+```
+install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE)
+```
+
+---
+
+To install one course at a time, enter the following from the R console, **substituting the correct file path** to your downloaded file and the **name of your desired course**:
+
+```
+library(swirl)
+install_course_zip("path/to/file/here/S-SB-Workshop-master.zip", multi=TRUE, 
+                   which_course="Course Name Here")
+swirl()
+```
+
+For example, if you download the zip file to `~/Downloads/S-SB-Workshop-master.zip`, then the following command will install the R Programming course.
+
+```
+install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE, which_course="R Programming")
+```
+
+**Please note that course names are case sensitive!**
+
+## Install and run a course automatically from swirl (Only four available workshops)
+
+It automates the process by allowing you to do everything right from the R console.
 
 1) Make sure you have a recent version version of swirl:
 
@@ -63,46 +87,19 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 install.packages("swirl")
 ```
 
-2) Enter the following from the R console, **substituting the name of the course** that you wish to install:
+2) Enter the following from the R console to install:
 
 ```
 library(swirl)
-install_course("Course Name Here")
+install_course("R Programming")
+install_course("Exploratory Data Analysis")
+install_course("Regression Models")
+install_course("Statistical Inference")
 swirl()
 ```
 
 For example, `install_course("R Programming")` will install the R Programming course. **Please note that course names are case sensitive!**
 
-If that doesn't work for you...
-
-## Install and run a course manually
-
-If the automatic course installation method outlined above does not work for you, then there's a simple alternative.
-
-1) Click [**here**](https://github.com/swirldev/swirl_courses/archive/master.zip) to download the file `swirl_courses-master.zip`.
-
-2) Enter the following from the R console, **substituting the correct file path** to your downloaded file and the **name of your desired course**:
-
-```
-library(swirl)
-install_course_zip("path/to/file/here/swirl_courses-master.zip", multi=TRUE, 
-                   which_course="Course Name Here")
-swirl()
-```
-
-For example, if you download the zip file to `~/Downloads/swirl_courses-master.zip`, then the following command will install the R Programming course.
-
-```
-install_course_zip("~/Downloads/swirl_courses-master.zip", multi=TRUE, which_course="R Programming")
-```
-
-**Please note that course names are case sensitive!**
-
-Although we recommend you install one course at a time, if you omit the `which_course` argument, then all available courses from this repository will be installed:
-
-```
-install_course_zip("~/Downloads/swirl_courses-master.zip", multi=TRUE)
-```
 
 ## Uninstall a course
 
