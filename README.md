@@ -30,7 +30,7 @@ Here are our current offerings, organized by level of difficulty:
 #### Intermediate
 
 - **Open Intro**: A review to statistics, data analysis, and data visualization `Additional workshop`
-- **Mathematical Biostatistics Boot Camp**: One- and two-sample t-tests, power, and sample size Additional workshop` 
+- **Mathematical Biostatistics Boot Camp**: One- and two-sample t-tests, power, and sample size `Additional workshop` 
 - **Regression Models**: The basics of regression modeling in R
 
 #### Advanced
