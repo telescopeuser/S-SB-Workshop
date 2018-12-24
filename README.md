@@ -29,8 +29,8 @@ Here are our current offerings, organized by level of difficulty:
 
 #### Intermediate
 
-- **Open Intro**: A review to statistics, data analysis, and data visualization
-- **Mathematical Biostatistics Boot Camp**: One- and two-sample t-tests, power, and sample size
+- **Open Intro**: A review to statistics, data analysis, and data visualization `Additional workshop`
+- **Mathematical Biostatistics Boot Camp**: One- and two-sample t-tests, power, and sample size Additional workshop` 
 - **Regression Models**: The basics of regression modeling in R
 
 #### Advanced
@@ -42,42 +42,12 @@ introduces the student to basic concepts of statistical inference
 including probability, hypothesis testing, confidence intervals and
 p-values. It concludes with an initiation to topics of particular
 relevance to big data, issues of multiple testing and resampling.
-- **Getting and Cleaning Data**: dplyr, tidyr, lubridate, hardcore time consuming data pre-processing
+- **Getting and Cleaning Data**: dplyr, tidyr, lubridate, hardcore time consuming data pre-processing `Additional workshop`
 
 Since our users come from a variety backgrounds, it's very hard to label material as **Beginner**, **Intermediate**, or **Advanced**. If you find something that is labelled **Beginner** to be challenging, please don't be discouraged. The first step of learning anything is to acknowledge that you are capable of understanding it. True understanding will come with time and practice.
 
-## Install and run a course manually
 
-If the automatic course installation method outlined above does not work for you, then there's a simple alternative.
-
-1) Click [**here**](https://github.com/telescopeuser/S-SB-Workshop/archive/master.zip "S-SB-Workshop-master.zip") to download the file `S-SB-Workshop-master.zip`.
-
-2) Install all all available courses:
-
-```
-install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE)
-```
-
----
-
-To install one course at a time, enter the following from the R console, **substituting the correct file path** to your downloaded file and the **name of your desired course**:
-
-```
-library(swirl)
-install_course_zip("path/to/file/here/S-SB-Workshop-master.zip", multi=TRUE, 
-                   which_course="Course Name Here")
-swirl()
-```
-
-For example, if you download the zip file to `~/Downloads/S-SB-Workshop-master.zip`, then the following command will install the R Programming course.
-
-```
-install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE, which_course="R Programming")
-```
-
-**Please note that course names are case sensitive!**
-
-## Install and run a course automatically from swirl (Only four available workshops)
+## Install and run a workshop/course automatically
 
 It automates the process by allowing you to do everything right from the R console.
 
@@ -99,6 +69,38 @@ swirl()
 ```
 
 For example, `install_course("R Programming")` will install the R Programming course. **Please note that course names are case sensitive!**
+
+
+## Install and run additional workshop/course manually
+
+If the automatic course installation method outlined above does not work for you, then there's a simple alternative.
+
+1) Click [**here**](https://github.com/telescopeuser/S-SB-Workshop/archive/master.zip "S-SB-Workshop-master.zip") to download the file `S-SB-Workshop-master.zip`.
+
+2) Install all all available courses:
+
+```
+install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE)
+```
+
+---
+
+Or, to install one course at a time, enter the following from the R console, **substituting the correct file path** to your downloaded file and the **name of your desired course**:
+
+```
+library(swirl)
+install_course_zip("path/to/file/here/S-SB-Workshop-master.zip", multi=TRUE, 
+                   which_course="Course Name Here")
+swirl()
+```
+
+For example, if you download the zip file to `~/Downloads/S-SB-Workshop-master.zip`, then the following command will install the R Programming course.
+
+```
+install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE, which_course="R Programming")
+```
+
+**Please note that course names are case sensitive!**
 
 
 ## Uninstall a course
