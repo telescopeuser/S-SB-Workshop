@@ -80,7 +80,9 @@ If the automatic course installation method outlined above does not work for you
 2) Install all all available courses:
 
 ```
+library(swirl)
 install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE)
+swirl()
 ```
 
 ---
@@ -88,10 +90,8 @@ install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE)
 Or, to install one course at a time, enter the following from the R console, **substituting the correct file path** to your downloaded file and the **name of your desired course**:
 
 ```
-library(swirl)
 install_course_zip("path/to/file/here/S-SB-Workshop-master.zip", multi=TRUE, 
                    which_course="Course Name Here")
-swirl()
 ```
 
 For example, if you download the zip file to `~/Downloads/S-SB-Workshop-master.zip`, then the following command will install the R Programming course.
