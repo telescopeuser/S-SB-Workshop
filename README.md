@@ -124,63 +124,63 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
  **Exploratory Data Analysis** 1: Principles of Analytic Graphs
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 2: Exploratory Graphs
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 3: Graphics Devices in R `[PDF PNG SVG]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 4: Plotting Systems
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 5: Base Plotting System
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 6: Lattice Plotting System
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 7: Working with Colors 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 8: GGPlot2 Part1 `[qplot]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 9: GGPlot2 Part2 `[ggplot]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 10: GGPlot2 Extras `[qplot]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 11: Hierarchical Clustering `[Machine Learning]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 12: K Means Clustering `[Machine Learning]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 13: Dimension Reduction `[Machine Learning]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 14: Clustering Example `[Machine Learning]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Exploratory Data Analysis** 15: CaseStudy `[pm2.5 air pollution]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
 ---
 
@@ -188,59 +188,59 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
  **Statistical Inference** 1: Introduction
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 2: Probability1 `[dice, playing cards]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 3: Probability2 `[PMF PDF CDF]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 4: ConditionalProbability `[medic test]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 5: Expectations `[E(X), CLT]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 6: Variance `[Var E(X^2)-(E(X))^2]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 7: CommonDistros `[Bernoulli Normal Poisson]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 8: Asymptotics `[central limit theorem, CI]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 9: T Confidence Intervals `[nitty-gritty]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 10: Hypothesis Testing `[t-test, z score]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 11: P Values `[nitty-gritty]` 
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 12: Power `[false negative, Type II error]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 13: Multiple Testing `[confusion matrix]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
  **Statistical Inference** 14: Resampling `[bootstrap]`
  
- [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
 ---
 
