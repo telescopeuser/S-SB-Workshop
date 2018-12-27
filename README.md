@@ -47,6 +47,244 @@ relevance to big data, issues of multiple testing and resampling.
 Since our users come from a variety backgrounds, it's very hard to label material as **Beginner**, **Intermediate**, or **Advanced**. If you find something that is labelled **Beginner** to be challenging, please don't be discouraged. The first step of learning anything is to acknowledge that you are capable of understanding it. True understanding will come with time and practice.
 
 
+## Workshop Video Guides
+
+
+- **Install R workshops**
+
+ [![video](http://img.youtube.com/vi/QP2bVF1JB0Q/0.jpg)](https://youtu.be/QP2bVF1JB0Q "Install R workshops")
+ 
+---
+
+- **R Programming**
+
+ **R Programming** 1: Basic Building Blocks
+  
+ [![video](http://img.youtube.com/vi/g7fihJ2Vm6M/0.jpg)](https://youtu.be/g7fihJ2Vm6M "**R Programming** 1: Basic Building Blocks")
+ 
+ **R Programming** 2: Workspace and Files
+ 
+ [![video](http://img.youtube.com/vi/jfn8mtn9tEo/0.jpg)](https://youtu.be/jfn8mtn9tEo "**R Programming** 2: Workspace and Files")
+ 
+ **R Programming** 3: Sequences of Numbers
+ 
+ [![video](http://img.youtube.com/vi/h6VP8S_GQlo/0.jpg)](https://youtu.be/h6VP8S_GQlo "**R Programming** 3: Sequences of Numbers")
+ 
+ **R Programming** 4: Vectors
+ 
+ [![video](http://img.youtube.com/vi/7cJzYWn_8Ok/0.jpg)](https://youtu.be/7cJzYWn_8Ok "**R Programming** 4: Vectors")
+ 
+ **R Programming** 5: Missing Values
+ 
+ [![video](http://img.youtube.com/vi/rAsJMas4ybA/0.jpg)](https://youtu.be/rAsJMas4ybA "**R Programming** 5: Missing Values")
+ 
+ **R Programming** 6: Subsetting Vectors
+ 
+ [![video](http://img.youtube.com/vi/PYe3jgwfpeo/0.jpg)](https://youtu.be/PYe3jgwfpeo "**R Programming** 6: Subsetting Vectors")
+ 
+ **R Programming** 7: Matrices and Data Frames
+ 
+ [![video](http://img.youtube.com/vi/Wow8gDy-p4g/0.jpg)](https://youtu.be/Wow8gDy-p4g "**R Programming** 7: Matrices and Data Frames")
+ 
+ **R Programming** 8: Logic 
+ 
+ [![video](http://img.youtube.com/vi/lw10u8nd2cA/0.jpg)](https://youtu.be/lw10u8nd2cA "**R Programming** 8: Logic ")
+ 
+ **R Programming** 9: Functions
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "**R Programming** 9: Functions")
+ 
+ **R Programming** 10: lapply and sapply 
+ 
+ [![video](http://img.youtube.com/vi/rXkgbFb8uAY/0.jpg)](https://youtu.be/rXkgbFb8uAY "**R Programming** 10: lapply and sapply ")
+ 
+ **R Programming** 11: vapply and tapply
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "**R Programming** 11: vapply and tapply")
+ 
+ **R Programming** 12: Looking at Data
+ 
+ [![video](http://img.youtube.com/vi/yC3wLKcrfGY/0.jpg)](https://youtu.be/yC3wLKcrfGY "**R Programming** 12: Looking at Data")
+ 
+ **R Programming** 13: Simulation
+ 
+ [![video](http://img.youtube.com/vi/wwj5Rax5qwo/0.jpg)](https://youtu.be/wwj5Rax5qwo "**R Programming** 13: Simulation")
+ 
+ **R Programming** 14: Dates and Times
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "**R Programming** 14: Dates and Times")
+ 
+ **R Programming** 15: Base Graphics 
+ 
+ [![video](http://img.youtube.com/vi/yzKSKvUMCZU/0.jpg)](https://youtu.be/yzKSKvUMCZU "**R Programming** 15: Base Graphics")
+ 
+---
+
+- **Exploratory Data Analysis**
+
+ **Exploratory Data Analysis** 1: Principles of Analytic Graphs
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 2: Exploratory Graphs
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 3: Graphics Devices in R `[PDF PNG SVG]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 4: Plotting Systems
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 5: Base Plotting System
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 6: Lattice Plotting System
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 7: Working with Colors 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 8: GGPlot2 Part1 `[qplot]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 9: GGPlot2 Part2 `[ggplot]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 10: GGPlot2 Extras `[qplot]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 11: Hierarchical Clustering `[Machine Learning]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 12: K Means Clustering `[Machine Learning]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 13: Dimension Reduction `[Machine Learning]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 14: Clustering Example `[Machine Learning]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Exploratory Data Analysis** 15: CaseStudy `[pm2.5 air pollution]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+---
+
+- **Statistical Inference**
+
+ **Statistical Inference** 1: Introduction
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 2: Probability1 `[dice, playing cards]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 3: Probability2 `[PMF PDF CDF]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 4: ConditionalProbability `[medic test]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 5: Expectations `[E(X), CLT]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 6: Variance `[Var E(X^2)-(E(X))^2]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 7: CommonDistros `[Bernoulli Normal Poisson]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 8: Asymptotics `[central limit theorem, CI]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 9: T Confidence Intervals `[nitty-gritty]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 10: Hypothesis Testing `[t-test, z score]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 11: P Values `[nitty-gritty]` 
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 12: Power `[false negative, Type II error]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 13: Multiple Testing `[confusion matrix]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+ **Statistical Inference** 14: Resampling `[bootstrap]`
+ 
+ [![video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ 
+---
+
+- **Regression Models** 
+
+ **Regression Models** 1: Introduction `[regression to mean]`
+ **Regression Models** 2: Residuals `[var(data)var(estmt)+var(resdls)]`
+ **Regression Models** 3: Least Squares Estimation 
+ **Regression Models** 4: Residual Variation `[R^21-sRes/sTotcor()^2]`
+ **Regression Models** 5: Introduction to Multivariable Regression 
+ **Regression Models** 6: MultiVar Examples 
+ **Regression Models** 7: MultiVar Examples2 
+ **Regression Models** 8: MultiVar Examples3 `[MultipleLinearRegression]`
+ **Regression Models** 9: Residuals Diagnostics and Variation 
+ **Regression Models** 10: Variance Inflation Factors `[VIF]` 
+ **Regression Models** 11: Overfitting and Underfitting `[ANOVA, F-test]`
+ **Regression Models** 12: Binary Outcomes 
+ **Regression Models** 13: Count Outcomes 
+
+---
+
+- **Open Intro** 
+
+ **Open Intro** 1: Overview of Statistics 
+
+---
+
+- **Mathematical Biostatistics Boot Camp** 
+
+ **Mathematical Biostatistics Boot Camp** 1: One Sample t-test `[nitty-gritty]` 
+ **Mathematical Biostatistics Boot Camp** 2: Two Sample t-test `[nitty-gritty]` 
+ **Mathematical Biostatistics Boot Camp** 3: Errors Power and Sample Size 
+
+---
+
+- **Getting and Cleaning Data** 
+
+ **Getting and Cleaning Data** 1: Manipulating Data with dplyr
+ **Getting and Cleaning Data** 2: Grouping and Chaining with dplyr
+ **Getting and Cleaning Data** 3: Tidying Data with tidyr
+ **Getting and Cleaning Data** 4: Dates and Times with lubridate
+
+---
+
 ## Install and run a workshop/course automatically
 
 It automates the process by allowing you to do everything right from the R console.
