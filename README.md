@@ -22,7 +22,7 @@ For more information regarding swirl, visit [swirlstats.com](http://swirlstats.c
 
 Here are our current offerings, organized by level of difficulty:
 
-#### Beginner
+#### Foundational
 
 - **R Programming**: The basics of programming in R
 - **Exploratory Data Analysis**: Statistics and Data visualization in R
@@ -44,7 +44,7 @@ p-values. It concludes with an initiation to topics of particular
 relevance to big data, issues of multiple testing and resampling.
 - **Getting and Cleaning Data**: dplyr, tidyr, lubridate, hardcore time consuming data pre-processing `Additional workshop`
 
-Since our users come from a variety backgrounds, it's very hard to label material as **Beginner**, **Intermediate**, or **Advanced**. If you find something that is labelled **Beginner** to be challenging, please don't be discouraged. The first step of learning anything is to acknowledge that you are capable of understanding it. True understanding will come with time and practice.
+Since our users come from a variety backgrounds, it's very hard to label material as **Foundational**, **Intermediate**, or **Advanced**. If you find something that is labelled **Foundational** to be challenging, please don't be discouraged. The first step of learning anything is to acknowledge that you are capable of understanding it. True understanding will come with time and practice.
 
 
 ## Workshop Video Guides
@@ -56,7 +56,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
 ---
 
-- **R Programming**
+- **[Foundational] R Programming**
 
  **R Programming** 1: Basic Building Blocks
  
@@ -120,7 +120,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
 ---
 
-- **Exploratory Data Analysis**
+- **[Foundational] Exploratory Data Analysis**
 
  **Exploratory Data Analysis** 1: Principles of Analytic Graphs
  
@@ -184,13 +184,13 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
 ---
 
-- **Open Intro** 
+- **[Intermediate] Open Intro** 
 
  **Open Intro** 1: Overview of Statistics 
 
 ---
 
-- **Mathematical Biostatistics Boot Camp** 
+- **[Intermediate] Mathematical Biostatistics Boot Camp** 
 
  **Mathematical Biostatistics Boot Camp** 1: One Sample t-test `[nitty-gritty]` 
  
@@ -200,7 +200,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
 ---
 
-- **Regression Models** 
+- **[Intermediate] Regression Models** 
 
  **Regression Models** 1: Introduction `[regression to mean]`
  
@@ -230,7 +230,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
 ---
 
-- **Statistical Inference**
+- **[Advanced] Statistical Inference**
 
  **Statistical Inference** 1: Introduction
  
@@ -291,7 +291,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
 ---
 
-- **Getting and Cleaning Data** 
+- **[Advanced] Getting and Cleaning Data** 
 
  **Getting and Cleaning Data** 1: Manipulating Data with dplyr
 
