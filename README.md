@@ -248,11 +248,11 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
  **Regression Models** 1: Introduction `[regression to mean]`
  
- **Regression Models** 2: Residuals `[var(data)var(estmt)+var(resdls)]`
+ **Regression Models** 2: Residuals `[var(data)=var(estmt)+var(resdls)]`
  
  **Regression Models** 3: Least Squares Estimation 
  
- **Regression Models** 4: Residual Variation `[R^21-sRes/sTotcor()^2]`
+ **Regression Models** 4: Residual Variation `[R^2=1-sRes/sTot=cor()^2]`
  
  **Regression Models** 5: Introduction to Multivariable Regression 
  
