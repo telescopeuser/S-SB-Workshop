@@ -373,5 +373,3 @@ If you'd like to delete a user's workshop progress, you can use `delete_progress
 Instructors around the world are using swirl in their classrooms. We think this is awesome. If you're an instructor, please feel free to do the same -- free of charge. While your students may be paying to take your course or attend your institution, we simply ask that you don't charge people *directly* for the use of our software or instructional content.
 
 If you are not sure about a particular use case, don't hesitate to send us an email at info@swirlstats.com.
-
----
