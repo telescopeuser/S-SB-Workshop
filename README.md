@@ -59,7 +59,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 - **R Programming**
 
  **R Programming** 1: Basic Building Blocks
-  
+ 
  [![video](http://img.youtube.com/vi/g7fihJ2Vm6M/0.jpg)](https://youtu.be/g7fihJ2Vm6M "**R Programming** 1: Basic Building Blocks")
  
  **R Programming** 2: Workspace and Files
@@ -184,6 +184,52 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
 ---
 
+- **Open Intro** 
+
+ **Open Intro** 1: Overview of Statistics 
+
+---
+
+- **Mathematical Biostatistics Boot Camp** 
+
+ **Mathematical Biostatistics Boot Camp** 1: One Sample t-test `[nitty-gritty]` 
+ 
+ **Mathematical Biostatistics Boot Camp** 2: Two Sample t-test `[nitty-gritty]` 
+ 
+ **Mathematical Biostatistics Boot Camp** 3: Errors Power and Sample Size 
+
+---
+
+- **Regression Models** 
+
+ **Regression Models** 1: Introduction `[regression to mean]`
+ 
+ **Regression Models** 2: Residuals `[var(data)=var(estmt)+var(resdls)]`
+ 
+ **Regression Models** 3: Least Squares Estimation 
+ 
+ **Regression Models** 4: Residual Variation `[R^2=1-sRes/sTot=cor()^2]`
+ 
+ **Regression Models** 5: Introduction to Multivariable Regression 
+ 
+ **Regression Models** 6: MultiVar Examples 
+ 
+ **Regression Models** 7: MultiVar Examples2 
+ 
+ **Regression Models** 8: MultiVar Examples3 `[MultipleLinearRegression]`
+ 
+ **Regression Models** 9: Residuals Diagnostics and Variation 
+ 
+ **Regression Models** 10: Variance Inflation Factors `[VIF]` 
+ 
+ **Regression Models** 11: Overfitting and Underfitting `[ANOVA, F-test]`
+ 
+ **Regression Models** 12: Binary Outcomes 
+ 
+ **Regression Models** 13: Count Outcomes 
+
+---
+
 - **Statistical Inference**
 
  **Statistical Inference** 1: Introduction
@@ -242,51 +288,6 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
  [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
  
----
-
-- **Regression Models** 
-
- **Regression Models** 1: Introduction `[regression to mean]`
- 
- **Regression Models** 2: Residuals `[var(data)=var(estmt)+var(resdls)]`
- 
- **Regression Models** 3: Least Squares Estimation 
- 
- **Regression Models** 4: Residual Variation `[R^2=1-sRes/sTot=cor()^2]`
- 
- **Regression Models** 5: Introduction to Multivariable Regression 
- 
- **Regression Models** 6: MultiVar Examples 
- 
- **Regression Models** 7: MultiVar Examples2 
- 
- **Regression Models** 8: MultiVar Examples3 `[MultipleLinearRegression]`
- 
- **Regression Models** 9: Residuals Diagnostics and Variation 
- 
- **Regression Models** 10: Variance Inflation Factors `[VIF]` 
- 
- **Regression Models** 11: Overfitting and Underfitting `[ANOVA, F-test]`
- 
- **Regression Models** 12: Binary Outcomes 
- 
- **Regression Models** 13: Count Outcomes 
-
----
-
-- **Open Intro** 
-
- **Open Intro** 1: Overview of Statistics 
-
----
-
-- **Mathematical Biostatistics Boot Camp** 
-
- **Mathematical Biostatistics Boot Camp** 1: One Sample t-test `[nitty-gritty]` 
- 
- **Mathematical Biostatistics Boot Camp** 2: Two Sample t-test `[nitty-gritty]` 
- 
- **Mathematical Biostatistics Boot Camp** 3: Errors Power and Sample Size 
 
 ---
 
@@ -294,11 +295,11 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
  **Getting and Cleaning Data** 1: Manipulating Data with dplyr
 
-**Getting and Cleaning Data** 2: Grouping and Chaining with dplyr
+ **Getting and Cleaning Data** 2: Grouping and Chaining with dplyr
 
-**Getting and Cleaning Data** 3: Tidying Data with tidyr
+ **Getting and Cleaning Data** 3: Tidying Data with tidyr
 
-**Getting and Cleaning Data** 4: Dates and Times with lubridate
+ **Getting and Cleaning Data** 4: Dates and Times with lubridate
 
 ---
 
