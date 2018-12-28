@@ -128,7 +128,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
  **Exploratory Data Analysis** 2: Exploratory Graphs
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/p5QmyVnokdw/0.jpg)](https://youtu.be/p5QmyVnokdw "**Exploratory Data Analysis** 2: Exploratory Graphs")
  
  **Exploratory Data Analysis** 3: Graphics Devices in R `[PDF PNG SVG]` 
  
@@ -136,11 +136,11 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
  **Exploratory Data Analysis** 4: Plotting Systems
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/kaM7_raCRTg/0.jpg)](https://youtu.be/kaM7_raCRTg "**Exploratory Data Analysis** 4: Plotting Systems")
  
  **Exploratory Data Analysis** 5: Base Plotting System
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/9S9z5D8uS74/0.jpg)](https://youtu.be/9S9z5D8uS74 "**Exploratory Data Analysis** 5: Base Plotting System")
  
  **Exploratory Data Analysis** 6: Lattice Plotting System
  
@@ -152,11 +152,11 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
  **Exploratory Data Analysis** 8: GGPlot2 Part1 `[qplot]` 
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/yZd876Z5a30/0.jpg)](https://youtu.be/yZd876Z5a30 "**Exploratory Data Analysis** 8: GGPlot2 Part1")
  
  **Exploratory Data Analysis** 9: GGPlot2 Part2 `[ggplot]` 
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/MjPuzTvLmy4/0.jpg)](https://youtu.be/MjPuzTvLmy4 "**Exploratory Data Analysis** 9: GGPlot2 Part2")
  
  **Exploratory Data Analysis** 10: GGPlot2 Extras `[qplot]` 
  
@@ -234,7 +234,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
  **Statistical Inference** 1: Introduction
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/qYfbkommx1k/0.jpg)](https://youtu.be/qYfbkommx1k "**Statistical Inference** 1: Introduction")
  
  **Statistical Inference** 2: Probability1 `[dice, playing cards]`
  
@@ -250,7 +250,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
  **Statistical Inference** 5: Expectations `[E(X), CLT]` 
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/NnJY8yOndkY/0.jpg)](https://youtu.be/NnJY8yOndkY "**Statistical Inference** 5: Expectations")
  
  **Statistical Inference** 6: Variance `[Var E(X^2)-(E(X))^2]`
  
@@ -270,11 +270,11 @@ Since our users come from a variety backgrounds, it's very hard to label materia
  
  **Statistical Inference** 10: Hypothesis Testing `[t-test, z score]` 
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/SJ-fJuyeV2I/0.jpg)](https://youtu.be/SJ-fJuyeV2I "**Statistical Inference** 10: Hypothesis Testing")
  
  **Statistical Inference** 11: P Values `[nitty-gritty]` 
  
- [![Video To Be Announced](http://img.youtube.com/vi//0.jpg)](https://youtu.be/ "")
+ [![video](http://img.youtube.com/vi/vcOZg5wqDpY/0.jpg)](https://youtu.be/vcOZg5wqDpY "**Statistical Inference** 11: P Values")
  
  **Statistical Inference** 12: Power `[false negative, Type II error]`
  
