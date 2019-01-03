@@ -307,6 +307,8 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
 It automates the process by allowing you to do everything right from the R console.
 
+![](R.png)
+
 1) Make sure you have a recent version version of swirl:
 
 ```
@@ -316,7 +318,7 @@ install.packages("swirl")
 2) Enter the following from the R console to install:
 
 ```
-library(swirl)
+library("swirl")
 install_course("R Programming")
 install_course("Exploratory Data Analysis")
 install_course("Regression Models")
@@ -336,7 +338,7 @@ If the automatic course installation method outlined above does not work for you
 2) Install all all available courses:
 
 ```
-library(swirl)
+library("swirl")
 install_course_zip("~/Downloads/S-SB-Workshop-master.zip", multi=TRUE)
 swirl()
 ```
