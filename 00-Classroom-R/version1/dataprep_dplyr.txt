@@ -1,4 +1,0 @@
-library(dplyr)
-
-filter(leadership, country=="UK")
-select(leadership, q1:q5)
