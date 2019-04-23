@@ -570,6 +570,16 @@ DiDi_hist(PERatio, "Year1", "Year2")
 # Perform the paired t test
 t.test(PERatio$Year2, PERatio$Year1, paired=TRUE)
 
+boxplot(PERatio)
+# Plot paired data
+install.packages("PairedData")
+library(PairedData)
+PERatioYear1 <- PERatio$Year1
+PERatioYear2 <- PERatio$Year2
+pd <- paired(PERatioYear1, PERatioYear2)
+plot(pd, type = "profile") + theme_bw()
+
+
 # The numbers of students that passed the test under both coaches
 passed = c(17, 57)
 # The total numbers of students under both coaches
