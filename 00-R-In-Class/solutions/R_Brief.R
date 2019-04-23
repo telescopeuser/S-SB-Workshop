@@ -1,4 +1,4 @@
-﻿################################################
+################################################
 # Statistics Bootcamp
 # https://bit.ly/iss-sb
 ################################################
@@ -504,6 +504,10 @@ lines(density(Cola$MidAisle), col="blue")
 curve(dnorm(x, mean(Cola$MidAisle), sd(Cola$MidAisle)),
       add=TRUE, col="dark orange", lwd=2)
 
+
+par(mfrow=c(1, 1))
+boxplot(Cola)
+
 # Test the normality of the end-aisle sample data
 shapiro.test(Cola$EndAisle)
 # Test the normality of the mid-aisle sample data
@@ -532,6 +536,21 @@ t.test(Cola$EndAisle, Cola$MidAisle, var.equal=TRUE)
 # t.test(Cola$EndAisle, Cola$MidAisle, var.equal=FALSE)
 t.test(Cola$EndAisle, Cola$MidAisle, var.equal=TRUE, alternative="greater")
 t.test(Cola$EndAisle, Cola$MidAisle, var.equal=TRUE, alternative="less")
+
+
+# Perform the paired t test
+t.test(Cola$EndAisle, Cola$MidAisle, var.equal=TRUE, paired=TRUE)
+# same as one sample t test of the difference:
+# t.test(Cola$EndAisle - Cola$MidAisle, var.equal=TRUE)
+
+boxplot(Cola)
+# Plot paired data
+install.packages("PairedData")
+library(PairedData)
+MidAisle <- Cola$MidAisle
+EndAisle <- Cola$EndAisle
+pd <- paired(MidAisle, EndAisle)
+plot(pd, type = "profile") + theme_bw()
 
 
 # Read the csv
