@@ -2,7 +2,7 @@
 ## NICF- Statistics Bootcamp Workshops & References
 
 
-<img align="right" src='http://www.aisp.sg/images/APP/ISS.jpg' width=25%>
+<img align="right" src='nus-iss-logo.jpg' width=25%>
 
 
 
