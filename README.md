@@ -378,6 +378,12 @@ If you are not sure about a particular use case, don't hesitate to send us an em
 
 ---
 
+**Data Science Wars: R versus Python:**
+
+https://www.datasciencecentral.com/profiles/blogs/data-science-wars-r-versus-python
+
+---
+
 **Data Science Road Map created by Swami Chandrasekaran:**
 
 http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
