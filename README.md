@@ -378,7 +378,7 @@ If you are not sure about a particular use case, don't hesitate to send us an em
 
 ---
 
-** Data Science Road Map created by Swami Chandrasekaran:**
+**Data Science Road Map created by Swami Chandrasekaran:**
 
 http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
 
