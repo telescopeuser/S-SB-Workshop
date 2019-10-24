@@ -1,7 +1,121 @@
-################################################
+﻿################################################
 # Statistics Bootcamp
 # https://bit.ly/iss-sb
 ################################################
+
+
+################################################
+# health check
+################################################
+
+
+################################################
+# working directory
+################################################
+getwd()
+setwd("/home/iss-user/Desktop/workshop/")
+getwd()
+
+################################################
+# distribution histogram
+################################################
+x <- rnorm(10000)
+hist(x, breaks = 50)
+
+################################################
+# interactive visualization
+################################################
+# install.packages('shiny')
+# install.packages('plotly')
+library('shiny')
+library('plotly')
+
+ui <- fluidPage(
+  plotlyOutput("plot"),
+  verbatimTextOutput("event")
+)
+
+server <- function(input, output) {
+  
+  # renderPlotly() also understands ggplot2 objects!
+  output$plot <- renderPlotly({
+    plot_ly(mtcars, x = ~mpg, y = ~wt)
+  })
+  
+  output$event <- renderPrint({
+    d <- event_data("plotly_hover")
+    if (is.null(d)) "Hover on a point!" else d
+  })
+}
+
+shinyApp(ui, server)
+
+
+##############################
+# ggplot2 in R
+##############################
+# install.packages('ggplot2')
+library('ggplot2')
+help('ggplot2')
+
+ggplot(mpg, aes(displ, hwy, colour = class)) + 
+  geom_point()
+
+################################################
+# 3D RGL Visualization
+################################################
+# install.packages('emdbook')
+# install.packages('rgl')
+
+library('emdbook')
+library('rgl')
+sfun <- function(x,y) {
+  d <- 3 * sqrt(x^2 + y^2)
+  exp(-0.02 * d^2) * sin(d)
+}
+
+cc <- curve3d(sfun(x,y),xlim=c(-pi,pi),ylim=c(-pi,pi),n=c(50,50),
+              sys3d="rgl")
+
+colvec <- colorRampPalette(c("pink","white","lightblue"))(100)
+with(cc,persp3d(x,y,z,col=colvec[cut(z,100)],alpha=0.5))
+pts <-   data.frame(x=c(2,2,2), y=c(-2,-2,-2), z=c(.5,0,-.5))
+with(pts,spheres3d(x,y,z,col="blue",radius=0.1))
+rgl.snapshot("rgltmp1.png")
+
+
+################################################
+# Neural Network Machine Leraning 101
+################################################
+# https://cran.r-project.org/web/packages/nnet/nnet.pdf
+# install.packages('nnet')
+library('nnet')
+
+# use half the iris data
+# Prepare 4 features variables (iris flower4  measurements)
+ir <- rbind(iris3[,,1],iris3[,,2],iris3[,,3])
+ir
+
+# Prepare 1 target variables (iris flower name)
+targets <- class.ind( c(rep("setosa", 50), rep("versicolor", 50), rep("virginica", 50)) )
+targets
+
+# random samlping 80% for training (40/50 = 80%)
+samp <- c(sample(1:50, 40), sample(51:100, 40), sample(101:150, 40))
+samp
+
+ird <- data.frame(rbind(iris3[,,1], iris3[,,2], iris3[,,3]),
+                  species = factor(c(rep("setosa",50), rep("versicolor", 50), rep("virginica", 50))))
+ird
+
+# Train neural net model (40x3=120 flowers for training)
+ir.nn2 <- nnet(species ~ ., data = ird, subset = samp, size = 2, rang = 0.1,
+               decay = 5e-4, maxit = 200)
+ir.nn2
+# Test the trained nnet model by 'Confusion Matrix' (10x3=30 flowers for testing)
+print("Col: True vs. Row: Predicted")
+table(ird$species[-samp], predict(ir.nn2, ird[-samp,], type = "class"))
+
 
 ################################################
 # 1.2 Introduction to R
@@ -587,6 +701,60 @@ total = c(25, 72)
 # Perform the test
 prop.test(passed, total, alternative="less")
 prop.test(passed, total)
+
+# -----------------------------------------
+# manual calculation
+# -----------------------------------------
+
+# coach A
+n = 25
+p = 0.68
+q = 1 - p
+error = sqrt(p*q/n)
+p + qnorm(0.975)*error
+p - qnorm(0.975)*error
+
+# coach B
+n = 72
+p = 0.79
+q = 1 - p
+error = sqrt(p*q/n)
+p + qnorm(0.975)*error
+p - qnorm(0.975)*error
+
+# boy @ 95% CI
+n = 20408 + 19207
+n
+p = 20408 / n
+q = 1 - p
+error = sqrt(p*q/n)
+p + qnorm(0.975)*error
+p - qnorm(0.975)*error
+
+# boy @ 99.9999999% CI
+p + qnorm(0.9999999995)*error
+p - qnorm(0.9999999995)*error
+
+# boy
+n = 204 + 192
+n
+p = 204 / n
+p
+q = 1 - p
+error = sqrt(p*q/n)
+p + qnorm(0.975)*error
+p - qnorm(0.975)*error
+
+# Gender bias?
+# year 2017 vs. "50%"
+prop.test(x = 20408, n=39615)
+prop.test(x = 20408, n=39615, alternative = "greater")
+
+# year 2017 vs. 1984
+boys  = c(20408, 21661)
+total = c(39615, 41555)
+prop.test(boys, total)
+prop.test(boys, total, alternative="less")
 
 
 ################################################
