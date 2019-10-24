@@ -10,7 +10,7 @@
 
 **Co-Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
 
-[![alt text]('nus-iss-sam.png' "Let's check Sam' profile page")](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan)
+<img align="right" src='nus-iss-sam.png' width=20%>
 
 **zhan.gu@nus.edu.sg**
 
