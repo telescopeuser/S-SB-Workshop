@@ -319,10 +319,20 @@ install.packages("swirl")
 
 ```
 library("swirl")
-install_course("R Programming")
+
+# Fundamental
+install_course("R Programming E") # or: install_course("R Programming")
 install_course("Exploratory Data Analysis")
+
+# Intermediate
 install_course("Regression Models")
+install_course("The R Programming Environment") # Optional
+
+# Advanced
 install_course("Statistical Inference")
+install_course("Getting and Cleaning Data")
+install_course("Advanced R Programming") # Optional
+
 swirl()
 ```
 
