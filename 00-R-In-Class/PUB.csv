@@ -1,7 +1,0 @@
-"month","record","electricity","water","gas","water_use","total"
-"Feb","read",47,18,21,"high",86
-"Mar","est",49,17,21,"high",87
-"Apr","read",70,14,24,"low",108
-"May","est",NA,NA,NA,NA,NA
-"Jun","read",78,15,27,"high",120
-"Jul","est",71,14,19,"low",104
